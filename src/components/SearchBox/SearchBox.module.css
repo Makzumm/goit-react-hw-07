@@ -1,0 +1,10 @@
+.searchBoxContainer {
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24;
+}
+
+.searchBox {
+    padding: 6px;
+}
